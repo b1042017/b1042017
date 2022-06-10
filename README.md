@@ -236,7 +236,7 @@ git clone <網址>
 - 初始化git
 
 ```
-git init --initial-branch-master
+git init 
 ```
 
 - 創建remand.me文件
