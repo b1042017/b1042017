@@ -233,6 +233,11 @@ git clone <網址>
 
 ![Snipaste_2022-06-10_13-31-28](https://user-images.githubusercontent.com/107233342/172996542-9dad7933-c5fa-4560-9fc7-2b603e227357.png)
 
+- 創建一個文件夾
+```
+cd <文件名>
+```
+
 - 初始化git
 
 ```
