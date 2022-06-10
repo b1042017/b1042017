@@ -177,7 +177,7 @@ run: sidekiq: (pid 91922) 126s; run: log: (pid 91934) 122s
 - root 用戶的密碼是隨機生成的，並在/etc/gitlab/initial_root_password. 您可以使用以下命令檢查密碼：
 
 ```shell
-$ cat /etc/gitlab/initial_root_password
+$ sudo cat /etc/gitlab/initial_root_password
 # WARNING: This value is valid only in the following conditions
 #          1. If provided manually (either via `GITLAB_ROOT_PASSWORD` environment variable or via `gitlab_rails['initial_root_password']` setting in `gitlab.rb`, it was provided before database was seeded for the first time (usually, the first reconfigure run).
 #          2. Password hasn't been changed manually, either via UI or via command line.
