@@ -211,6 +211,44 @@ Password: kOtOjWp7v70OjkjtadnSJAhcDbCNo9nTNGVC5UoSCyE=
 
 ![gitlab-change-root-password-03-1068x458](https://user-images.githubusercontent.com/107233342/172988935-e47d00d0-a3a7-413e-b19d-9f63204fb06f.png)
 
+## 第5部創建測試專案
+
+- 設置全局簽名
+
+```shell
+git config --global user.name,<User>
+```
+
+- 初始化git
+
+```
+git init --initial-branch-main
+```
+
+- 創建remand.me文件
+
+```
+touch READMD.md
+```
+
+- 編輯readme文件
+
+```
+vim README.md
+```
+
+- 添加 readme 文件到暫存區
+
+```
+git add README.md
+```
+
+- 提交修改到歷史紀錄中
+
+```
+git commit -m "Add README.md"
+```
+
 ## 參考資料
 
 [如何在 Ubuntu 22.04|20.04|18.04 上安裝 GitLab CE](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Fix-for-the-GitLab-Unable-to-locate-package-gitlab-ee-on-Ubuntu-20)
