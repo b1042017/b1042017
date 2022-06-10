@@ -258,6 +258,9 @@ git add README.md
 git commit -m "Add README.md"
 ```
 
+```
+
+```
 ## 參考資料
 
 [如何在 Ubuntu 22.04|20.04|18.04 上安裝 GitLab CE](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Fix-for-the-GitLab-Unable-to-locate-package-gitlab-ee-on-Ubuntu-20)
