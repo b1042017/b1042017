@@ -220,7 +220,7 @@ git config --global user.name <User>
 git config --global user.email <Email>
 ```
 
-- 
+- 複製遠端庫到本地
 
 ```
 git clone <網址>
@@ -259,7 +259,7 @@ git commit -m "Add README.md"
 ```
 
 ```
-
+git push -u or
 ```
 ## 參考資料
 
