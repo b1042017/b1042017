@@ -17,7 +17,7 @@ B1042019 楊博凱
 
 <!-- vim-markdown-toc -->
 
-## Gutlab是甚麼?
+## Gitlab是甚麼?
 
 - GitLab 是由 GitLab Inc.開發，一款基於 Git 的完全整合的軟體開發平台（fully 整合軟體 development platform）。 另外，GitLab 且具有wiki以及線上編輯、issue跟蹤功能、CI/CD 等功能。
 
