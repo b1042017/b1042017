@@ -258,8 +258,9 @@ git add README.md
 git commit -m "Add README.md"
 ```
 
+- 複製到遠端庫
 ```
-git push -u origin main
+git push -u origin master
 ```
 ## 參考資料
 
