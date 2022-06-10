@@ -217,6 +217,7 @@ Password: kOtOjWp7v70OjkjtadnSJAhcDbCNo9nTNGVC5UoSCyE=
 
 ```shell
 git config --global user.name <User>
+git config --global user.email <Email>
 ```
 
 - 
