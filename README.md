@@ -211,13 +211,21 @@ Password: kOtOjWp7v70OjkjtadnSJAhcDbCNo9nTNGVC5UoSCyE=
 
 ![gitlab-change-root-password-03-1068x458](https://user-images.githubusercontent.com/107233342/172988935-e47d00d0-a3a7-413e-b19d-9f63204fb06f.png)
 
-## 第5部創建測試專案
+## 第5步創建測試專案
 
 - 設置全局簽名
 
 ```shell
 git config --global user.name,<User>
 ```
+
+- 
+
+```
+git clone <網址>
+```
+
+![Snipaste_2022-06-10_13-31-28](https://user-images.githubusercontent.com/107233342/172996542-9dad7933-c5fa-4560-9fc7-2b603e227357.png)
 
 - 初始化git
 
