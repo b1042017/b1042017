@@ -36,8 +36,6 @@ sudo apt upgrade -y
 sudo apt install -y ca-certificates curl openssh-server tzdata
 ```
 
-![ftp-status](img/ftp-status.png) 
-
 ## 第 2 步：添加 GitLab CE 存儲庫
 
 - 安裝完所有先決條件後，通過運行以下命令繼續將 GitLab 存儲庫添加到您的 Ubuntu 22.04
