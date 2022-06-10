@@ -267,7 +267,10 @@ git add README.md
 ```
 git commit -m "Add README.md"
 ```
-
+- 添加網址別名
+```
+git remote add origin http://gitlab.example.com/gitlab-instance-c3f7c0ff/aa.git
+```
 - 複製到遠端庫
 ```
 git push -u origin master
