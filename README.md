@@ -8,12 +8,12 @@ B1042019 楊博凱
 
 <!-- vim-markdown-toc GFM -->
 
-* [Gitlab是甚麼?]
-* [更新系統並安裝依賴項]
-* [添加 GitLab CE 存儲庫]
-* [在 Ubuntu 22.04上安裝 GitLab CE]
-* [訪問 GitLab CE Web 界面]
-* [參考資料]
+* Gitlab是甚麼?
+* 更新系統並安裝依賴項
+* 添加 GitLab CE 存儲庫
+* 在 Ubuntu 22.04上安裝 GitLab CE
+* 訪問 GitLab CE Web 界面
+* 參考資料
 
 <!-- vim-markdown-toc -->
 
