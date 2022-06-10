@@ -216,7 +216,7 @@ Password: kOtOjWp7v70OjkjtadnSJAhcDbCNo9nTNGVC5UoSCyE=
 - 設置全局簽名
 
 ```shell
-git config --global user.name,<User>
+git config --global user.name <User>
 ```
 
 - 
