@@ -212,6 +212,8 @@ Password: kOtOjWp7v70OjkjtadnSJAhcDbCNo9nTNGVC5UoSCyE=
 ![gitlab-change-root-password-03-1068x458](https://user-images.githubusercontent.com/107233342/172988935-e47d00d0-a3a7-413e-b19d-9f63204fb06f.png)
 
 ## 第5步創建測試專案
+![Snipaste_2022-06-10_14-39-16](https://user-images.githubusercontent.com/107233342/173005460-e695a21b-c504-4587-a73a-6b937abc16f2.png)
+
 
 - 設置全局簽名
 
