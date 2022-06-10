@@ -216,8 +216,8 @@ Password: kOtOjWp7v70OjkjtadnSJAhcDbCNo9nTNGVC5UoSCyE=
 - 設置全局簽名
 
 ```shell
-git config --global user.name <User>
-git config --global user.email <Email>
+git config --global user.name "哈哈哈"
+git config --global user.email "XXXXXXgamil.com"
 ```
 
 - 複製遠端庫到本地
