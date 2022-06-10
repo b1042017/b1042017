@@ -259,7 +259,7 @@ git commit -m "Add README.md"
 ```
 
 ```
-git push -u or
+git push -u origin main
 ```
 ## 參考資料
 
